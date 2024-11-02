@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Projects</title>
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="./main-style.css">
+</head>
+<body>
+    <h1 class="nav-parent-element">
+        <div><h1 class="navAlign" style="white-space: nowrap; margin-top: -10px;">Vincent Hsu</h1></div>
+        <div class="parent-element">
+            <button id="projectsButton" class="navAlign" style="margin-right: 10px;">Projects</button>
+            <button id="aboutButton" class="navAlign" style="margin-right: 3px;">About</button>
+        </div>
+    </h1>
+    <hr style="margin-top: -10px; margin-bottom: -2px;">
+    <h1>About</h1>
+    <hr>
+
+    <p>I'm a manly man. My name is Dr. Professor. Vincent Godly Hsu The Great. I will be the greatest engineer of all time.</p>
+
+    <script>
+        const projectsButton = document.getElementById("projectsButton");
+        projectsButton.onclick = function() {
+            window.location.href = `./index.html`;
+        }
+
+        const aboutButton = document.getElementById("aboutButton");
+        aboutButton.onclick = function() {
+            window.location.href = `./about.html`;
+        }
+    </script>    
+</body>
+</html>

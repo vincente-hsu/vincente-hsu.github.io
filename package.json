@@ -1,0 +1,27 @@
+{
+  "name": "vincente-hsu.github.io",
+  "version": "1.0.0",
+  "description": "My static website",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincente-hsu/vincente-hsu.github.io.git"
+  },
+  "keywords": [
+    "CheesyKiller"
+  ],
+  "author": "CheesyKiller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vincente-hsu/vincente-hsu.github.io.git/issues"
+  },
+  "homepage": "https://github.com/vincente-hsu/vincente-hsu.github.io.git#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mongoose": "^8.8.0"
+  },
+  "scripts": {
+    "build": "node generatePages.js"
+  }
+}

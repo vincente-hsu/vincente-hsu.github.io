@@ -1,0 +1,49 @@
+{
+    "projects": [
+      {
+        "title": "Heat Convection of Resistors in Liquid Nitrogen",
+        "description": "A study on heat convection in resistors immersed in liquid nitrogen.",
+        "photos": [
+          {"Sample1.jpg": "A"},
+          {"Sample2.jpg": "B"},
+          {"Sample3.jpg": "C"},
+          {"Sample4.jpg": "D"}
+        ]
+      },
+      {
+        "title": "Resistivity of Polyethylene",
+        "description": "Exploring the resistivity properties of polyethylene materials.",
+        "photos": [
+          {"Just Cheese-Pixel.png": "A"},
+          {"Just Cheese-Pixel.png": "B"}
+        ]
+      },
+      {
+        "title": "Resistivity of Polyethylene",
+        "description": "Exploring the resistivity properties of polyethylene materials.",
+        "photos": [
+          {"Just Cheese.png": "A"},
+          {"Just Cheese-Pixel.png": "B"}
+        ]
+      },
+      {
+        "title": "Resistivity of Polyethylene",
+        "description": "Exploring the resistivity properties of polyethylene materials.",
+        "photos": [
+          {"Just Cheese.png": "A"},
+          {"Just Cheese-Pixel.png": "B"}
+        ]
+      },
+      {
+        "title": "ARISER Simulation",
+        "description": "A simulation project using ARISER software.",
+        "photos": []
+      },
+      {
+        "title": "TPB Deposition",
+        "description": "A research project on TPB deposition methods.",
+        "photos": []
+      }
+    ]
+  }
+  
